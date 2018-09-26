@@ -4,7 +4,7 @@ Dynamic Programming(Uniform Cost Search), Greedy Best First Search and A* Search
 
 The code focusues on the US map to find the optimal path to travel from one city to another via road. The JAVA file SearchUSA.java contains the code to find the path cost and optimal path using three search techniques, i.e, Dynamic Programming(Uniform Cost Search), Greedy Best First Search, and A* searching algorithm. It has considered the map of US to traverse from one city to another. Also, it has imported the data from the dataset which contains the path between the connecting cities along with the path cost and also the location of each city(longitude and latitude). The heauritic cost to travel from one fity to another has also bene calculated.
 
-##Installation
+## Installation
 The machine running this program must have Java installed on the machine. To run a program, follow the steps;
 
 1. Open the terminal and go to the location which contains the file
@@ -26,6 +26,7 @@ Ex. If you want to traverse from Portland to Sacramento using A*, then type the 
     java SearchUSA "astar" "portland" "sacramento"
 ```
 
+## Output
 Similar types of combination can be tried to get the required output. the output will contain these five computations:
 • A comma-separated list of expanded nodes (the closed list)
 • The number of nodes expanded
