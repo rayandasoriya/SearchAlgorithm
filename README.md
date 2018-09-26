@@ -1,4 +1,4 @@
-# SearchAlgorithm
+# Search Algorithm
 Dynamic Programming(Uniform Cost Search), Greedy Best First Search and A* Search Algorithms in Java
 
 
@@ -26,4 +26,4 @@ Similar types of combination can be tried to get the required output. the output
 • The number of nodes in the path
 • The total distance from A to B in the solution path
 
-If there are some issues in running the program, feel free to contact me at rdasori@ncsu.edu
+If there are some issues in running the program, feel free to contact me at dasoriyarayan@gmail.com
