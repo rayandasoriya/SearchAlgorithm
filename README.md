@@ -28,10 +28,11 @@ Ex. If you want to traverse from Portland to Sacramento using A*, then type the 
 
 ## Output
 Similar types of combination can be tried to get the required output. the output will contain these five computations:
-• A comma-separated list of expanded nodes (the closed list)
-• The number of nodes expanded
-• A comma-separated list of nodes in the solution path
-• The number of nodes in the path
-• The total distance from A to B in the solution path
+* A comma-separated list of expanded nodes (the closed list)
+* The number of nodes expanded
+* A comma-separated list of nodes in the solution path
+* The number of nodes in the path
+* The total distance from A to B in the solution path
 
+# Help
 If there are some issues in running the program, feel free to contact me at dasoriyarayan@gmail.com
