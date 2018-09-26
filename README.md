@@ -9,9 +9,9 @@ The machine running this program must have Java installed on the machine. To run
 1. Open the terminal and go to the location which contains the file
 
 2. Compile the program
-'''
+```
     javac SearchUSA.java
-'''
+```
 
 3. Run the program
 '''
