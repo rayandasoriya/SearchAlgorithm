@@ -9,15 +9,21 @@ The machine running this program must have Java installed on the machine. To run
 1. Open the terminal and go to the location which contains the file
 
 2. Compile the program
+'''
     javac SearchUSA.java
+'''
 
 3. Run the program
+'''
     java SearchUSA [greedy|dynamic|astar] [source] [destination]    
+'''
 
 In this, select one of the serachType(greedy, dynamic or astar). Then, enter the source city and then the destination city.
 
 Ex. If you want to traverse from Portland to Sacramento using A*, then type the following code in the terminal:
+'''
     java SearchUSA "astar" "portland" "sacramento"
+'''
 
 Similar types of combination can be tried to get the required output. the output will contain these five computations:
 • A comma-separated list of expanded nodes (the closed list)
